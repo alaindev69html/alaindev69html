@@ -1,4 +1,4 @@
-  <p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count"> </p>
+<p align="right"> <img src="https://images-ext-1.discordapp.net/external/pVdYQTTmdMeINe1UO70d-wBt82fTqqF4Wr_fEKwWXcM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/913319000027561984/a_b4857ea31033a92a9373e80e35dba966.gif?width=229&height=229" alt="Profile count"> </p>
 <div align="center">
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 <details open="">
