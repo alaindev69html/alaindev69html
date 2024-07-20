@@ -5,7 +5,7 @@
 <p><br></p>
 <div>
   <div align="center">
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="[https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png](https://images-ext-1.discordapp.net/external/pVdYQTTmdMeINe1UO70d-wBt82fTqqF4Wr_fEKwWXcM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/913319000027561984/a_b4857ea31033a92a9373e80e35dba966.gif?width=229&height=229)">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png](https://images-ext-1.discordapp.net/external/pVdYQTTmdMeINe1UO70d-wBt82fTqqF4Wr_fEKwWXcM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/913319000027561984/a_b4857ea31033a92a9373e80e35dba966.gif?width=229&height=229)">
   </div>
   <div align="center">
       <a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker](https://readme-typing-svg.demolab.com/demo/?weight=1000&size=30&duration=3000&color=000000&center=true&vCenter=true&lines=Hey+its+me;Coder;Developer;Resource+Leaker;Someone+ded+%3A))" alt="Typing SVG"></a>
